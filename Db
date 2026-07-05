@@ -1,0 +1,9 @@
+{
+  "homeAutomation": {
+    "temperature": 30,
+    "humidity": 70,
+    "mode": "auto",
+    "manualSpeed": 90,
+    "fanSpeed": 120
+  }
+}
